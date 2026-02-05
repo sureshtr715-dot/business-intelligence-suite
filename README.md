@@ -108,21 +108,21 @@ All SQL logic is available inside:sql/views.sql
 ### 1) Create Database and Tables
 
 Run inside MySQL Workbench:
-sql/schema.sql
-sql/views.sql
+-sql/schema.sql
+-sql/views.sql
 
 ### 2) Create Virtual Environment
 
-python -m venv venv
-venv\Scripts\activate
-pip install pandas sqlalchemy pymysql
+-python -m venv venv
+-venv\Scripts\activate
+-pip install pandas sqlalchemy pymysql
 
 ### 3) Run ETL
 
-python etl/01_clean_transactions.py
-python etl/02_clean_sales.py
-python etl/03_clean_inventory.py
-python etl/04_load_to_mysql.py
+-python etl/01_clean_transactions.py
+-python etl/02_clean_sales.py
+-python etl/03_clean_inventory.py
+-python etl/04_load_to_mysql.py
 
 
 ### 4) Open Power BI
