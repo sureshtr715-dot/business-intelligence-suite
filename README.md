@@ -45,7 +45,7 @@ Power BI Dashboards
 ## 📊 Dashboards
 
 ### Finance Dashboard
-![Finance Dashboard](screenshorts\01_finance_dashboard.png)
+![Finance Dashboard](screenshorts/01_finance_dashboard.png)
 
 ### Sales Funnel Dashboard
 ![Sales Funnel Dashboard](screenshots/02_sales_dashboard.png)
