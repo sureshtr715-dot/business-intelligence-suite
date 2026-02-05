@@ -7,7 +7,7 @@ This project demonstrates real-world ETL pipelines, data warehouse design, SQL a
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Business Intelligence Suite helps organizations:
 
@@ -19,7 +19,7 @@ Data flows from raw Excel files → Python ETL → MySQL Data Warehouse → SQL 
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 Raw Excel Files  
 ↓  
@@ -33,16 +33,7 @@ Power BI Dashboards
 
 ---
 
-## 🛠 Tech Stack
-
-- Python (Pandas, SQLAlchemy)  
-- MySQL  
-- Power BI  
-- Git & GitHub  
-
----
-
-## 📊 Dashboards
+## Dashboards
 
 ### Finance Dashboard
 ![Finance Dashboard](screenshots/01_finance_dashboard.png)
@@ -58,7 +49,7 @@ Power BI Dashboards
 
 ---
 
-## 🔁 ETL Pipeline
+## ETL Pipeline
 
 1. Read raw Excel files  
 2. Clean and standardize data using Pandas  
@@ -68,7 +59,7 @@ Power BI Dashboards
 
 ---
 
-## 🧱 Data Warehouse Design
+## Data Warehouse Design
 
 ### Dimensions
 - dim_date  
@@ -87,7 +78,7 @@ Star schema design.
 
 ---
 
-## 📈 SQL Views
+## SQL Views
 
 - vw_monthly_cashflow  
 - vw_expense_by_category  
@@ -103,7 +94,7 @@ All SQL logic is available inside:sql/views.sql
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### 1) Create Database and Tables
 ```bash
@@ -134,7 +125,7 @@ Open: powerbi/bi_suite.pbix
 
 ---
 
-## 📊 Business Insights
+## Business Insights
 
 ### Finance
 - Monthly net cash flow  
