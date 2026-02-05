@@ -1,6 +1,10 @@
 ## 📊 Business Intelligence Suite (Finance, Sales & Inventory Analytics)
 
-[![Status](https://img.shields.io/badge/status-completed%20%7C%20Python%20%7C%20SQL%20%7C%20MySQL%20%7C%20Power%20BI-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
+[![Power BI](https://img.shields.io/badge/Power%20BI-yellow.svg)]()
+[![Python](https://img.shields.io/badge/Python-blue.svg)]()
+[![MySQL](https://img.shields.io/badge/MySQL-orange.svg)]()
+[![SQL](https://img.shields.io/badge/SQL-lightgrey.svg)]()
 
 An end-to-end Business Intelligence system built using Python, MySQL, and Power BI.  
 This project demonstrates real-world ETL pipelines, data warehouse design, SQL analytics, and interactive dashboards.
