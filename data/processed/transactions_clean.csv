@@ -1,0 +1,15 @@
+transaction_id,date,description,amount,type,category,account,payment_method,vendor,is_recurring
+TXN001,2025-01-01,Opening Salary Credit,50000,income,Salary,Hdfc,Bank Transfer,Employer,True
+TXN002,2025-01-02,House Rent,-12000,expense,Rent,Hdfc,Upi,Landlord,True
+TXN003,2025-01-03,Grocery Purchase,-2300,expense,Groceries,Hdfc,Card,Dmart,False
+TXN004,2025-01-05,Electricity Bill,-1450,expense,Electricity,Hdfc,Upi,Tneb,True
+TXN005,2025-01-06,Netflix Subscription,-499,expense,Subscription,Hdfc,Card,Netflix,True
+TXN006,2025-07-01,Freelance Payment,15000,income,Freelance,Hdfc,Bank Transfer,Client A,False
+TXN007,2025-01-08,Petrol,-900,expense,Travel,Cash,Cash,Petrol Bunk,False
+TXN008,2025-01-09,Swiggy Food Order,-650,expense,Food,Hdfc,Upi,Swiggy,False
+TXN009,2025-01-09,Swiggy Food Order,-650,expense,Food,Hdfc,Upi,Swiggy,False
+TXN010,2025-01-12,Phone Recharge,-299,expense,Mobile,Hdfc,Upi,Jio,True
+TXN011,2025-01-15,Interest Credit,120,income,Interest,Hdfc,Bank Transfer,Hdfc,False
+TXN013,2025-02-01,Salary Credit,50000,income,Salary,Hdfc,Bank Transfer,Employer,True
+TXN014,2025-02-02,House rent,-12000,expense,Rent,Hdfc,Upi,Landlord,True
+TXN015,2025-02-04,Grocery,-2450,expense,Groceries,Hdfc,Card,D Mart,False
